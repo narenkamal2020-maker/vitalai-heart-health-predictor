@@ -1,0 +1,5 @@
+The frontend of VitalAI is built with a modern and responsive user interface designed to provide an intuitive healthcare analytics experience. It features interactive dashboards, animated UI components, real-time prediction forms, and visually appealing data representations to enhance user engagement and usability.
+
+The application includes secure authentication pages, profile and settings management, prediction input forms, and detailed result visualization for cardiovascular risk analysis. Users can enter medical parameters through a clean and user-friendly interface, after which the frontend communicates with backend APIs to fetch AI-generated predictions instantly.
+
+Built using modern web technologies, the frontend emphasizes responsiveness, accessibility, smooth navigation, and optimized performance across desktop and mobile devices. Additional enhancements such as dynamic charts, dark/light mode support, loading animations, and real-time feedback systems improve the overall user experience and make the platform feel professional and scalable.
